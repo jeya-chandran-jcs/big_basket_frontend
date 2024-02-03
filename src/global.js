@@ -1,0 +1,1 @@
+export const API="https://bigbasket-backend-x1nv.onrender.com"
